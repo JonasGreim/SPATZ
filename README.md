@@ -4,7 +4,7 @@
 
 
 ![SPATZ_landingPage.png](./images/SPATZ_logo.png)
-![SPATZ_landingPage.png](./images/abc.png)
+![SPATZ_landingPage.png](./images/SPATZ_naming.png)
 
 SPATZ ist ein Universitätsprojekt aus dem wirtschaftwissenschaftlichen Modul  „Business Innovation“.
 Ziel des Kurses war es, eine Lösung für den jeweiligen Industriepartner zu finden und diese Lösung in Form von einen Start-up zu präsentieren.
